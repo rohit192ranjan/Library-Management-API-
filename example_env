@@ -1,0 +1,5 @@
+jwt_secret_key = YOUR_KEY
+db_url = YOUR_URL
+db_user = USER_NAME
+db_password = YOUR_PASSWORD
+db_name = YOUR_DB_NAME
